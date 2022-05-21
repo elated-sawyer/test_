@@ -1,3 +1,5 @@
-#Hi, this is a test on git
+# Hi!
 
-#second change
+# Will give instructions on some technique implementations.
+
+* Git
